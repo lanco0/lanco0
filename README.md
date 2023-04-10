@@ -1,10 +1,10 @@
 ![MasterHead](https://www.juegostudio.com/wp-content/uploads/2020/09/Game-Development-Project.png)
 <h1 align="center">Hi 👋, I'm Hakkı</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://pro2-bar-s3-cdn-cf5.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif?h=3ef38d2bcece76203455258e0d585fe9">
+<img align="right" alt="Coding" width="400" src="https://pro2-bar-s3-cdn-cf5.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif?h=3ef38d2bcece76203455258e0d585fe9](https://tenor.com/view/coding-gif-18657810">
 
 
-<p align="left"> <img src="https://tenor.com/view/coding-gif-18657810" alt="lanco0" /> </p>
+<p align="left"> <img src="[https://tenor.com/view/coding-gif-18657810](https://komarev.com/ghpvc/?username=meyrosd&label=Profile%20views&color=0e75b6&style=flat)" alt="lanco0" /> </p>
 
 - 🌱 I’m currently learning **C#**
 - 📫 How to reach me hakkitumarr@gmail.com
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hakkıtumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakkıtumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hakk%C4%B1-tumar-b3584622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakkıtumar" height="30" width="40" /></a>
 <a href="https://instagram.com/salutcommandante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakki_tumar" height="30" width="40" /></a>
 </p>
 
