@@ -23,4 +23,4 @@
 
 
 
-(https://github.com/YOUR_USERNAME/lanco0/blob/output/github-contribution-grid-snake.gif)
+(https://github.com/lanco0/lanco0/blob/output/github-contribution-grid-snake.gif)
