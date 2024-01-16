@@ -20,7 +20,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanco0&" alt="lanco0" /></p>
 
-
-
-
-(https://github.com/lanco0/lanco0/blob/output/github-contribution-grid-snake.gif)
